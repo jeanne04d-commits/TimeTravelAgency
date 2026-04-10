@@ -74,6 +74,18 @@ npm run dev
 
 ---
 
+## 👥 Équipe
+
+Projet réalisé par :
+
+- Jeanne Digaire
+- Chloé FORNER VIEMARI
+- Maël Gousset
+- Chloé Habert
+- Alan Reilhac
+
+---
+
 ## 📄 Licence
 
 Projet pédagogique réalisé dans le cadre d’un cours Digital & IA. 
